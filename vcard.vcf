@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:<Surname>;<Name>;;;
+FN:<Name Surname>
+ORG:<Company>;
+EMAIL:<email@domain.com>
+TEL;type=cell:+123456789
+ADR;type=home;type=pref:;;<Street> <No>;<City>;;<PostalCode>;<Country>
+URL;type=pref:<domain.com>
+
+END:VCARD
