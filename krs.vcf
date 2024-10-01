@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:<Surname>Kreis;<Name>Paweł;;;
+FN:<Name Surname>Paweł Kreis
+ORG:<Company>transientlab;
+EMAIL:<email@domain.com>pawel@transientlab.net
+TEL;type=cell:+48601373075
+
+END:VCARD

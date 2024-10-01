@@ -1,3 +1,0 @@
-LINK   |        https://transientlab.net                    | URLlink
-WIFI   |        T: WPA; S : name ; P : passw                | wificonnection
-VCARD  |        vcard.vcf                                   | businesscard

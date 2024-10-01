@@ -1,11 +1,11 @@
 import qrcode as qr
 
 # QR code format
-version = 11
-size = 40
+version = 9
+size = 16
 border_size = 4
-bg_color = (255,0,255)
-code_color = (0,255,0)
+bg_color = (255,255,255)
+code_color = (0,0,0)
 
 # generate qr code
 def generate_qr(file_name, data, qr_back_color=bg_color, qr_code_color=code_color, qr_size=size, qr_border=border_size, qr_version=version):
